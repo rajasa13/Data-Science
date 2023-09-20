@@ -1,0 +1,12 @@
+website resmi NSL-KDD tidak ada.
+
+beberapa website atau sumber untuk mendapatkan dataset ini
+bisa dari kaggle, github, UNB dataset, dll.
+
+menurut https://github.com/jmnwong/NSL-KDD-Dataset
+dataset tidak bisa ditemukan dimanapun pada mesin wayback
+tapi pemilik akun github berhasil mendapatkannya dari archive
+web dan backup dataset ada pada repositorynya.
+
+dataset ini juga bisa di download dari
+website berikut: https://www.unb.ca/cic/datasets/nsl.html
