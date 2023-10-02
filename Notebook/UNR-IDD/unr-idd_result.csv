@@ -9,12 +9,12 @@
               max_delta_step=None, max_depth=None, max_leaves=None,
               min_child_weight=None, missing=nan, monotone_constraints=None,
               n_estimators=100, n_jobs=None, num_parallel_tree=None,
-              objective='multi:softprob', predictor=None, ...)",0.965,0.965,0.965,0.965
-1,"GradientBoostingClassifier(learning_rate=0.7, max_depth=4)",0.96,0.96,0.96,0.96
-2,RandomForestClassifier(n_estimators=10),0.942,0.942,0.942,0.942
-3,DecisionTreeClassifier(max_depth=30),0.915,0.915,0.915,0.915
-4,KNeighborsClassifier(),0.834,0.834,0.834,0.834
-5,GaussianNB(),0.558,0.558,0.558,0.558
-6,MLPClassifier(),0.468,0.468,0.468,0.468
-7,SVC(),0.451,0.451,0.451,0.451
-8,LogisticRegression(),0.369,0.369,0.369,0.369
+              objective='multi:softprob', predictor=None, ...)",0.95651,0.95584,0.95575,0.95601
+1,"GradientBoostingClassifier(learning_rate=0.7, max_depth=4)",0.95182,0.9512,0.95119,0.95122
+2,RandomForestClassifier(n_estimators=10),0.93647,0.93568,0.93547,0.93675
+3,DecisionTreeClassifier(max_depth=30),0.90428,0.90351,0.90346,0.90363
+4,KNeighborsClassifier(),0.82072,0.81922,0.81957,0.81983
+5,GaussianNB(),0.51439,0.51157,0.51114,0.60342
+6,SVC(),0.45907,0.43181,0.45722,0.48418
+7,MLPClassifier(),0.37231,0.33525,0.3777,0.42973
+8,LogisticRegression(),0.36847,0.30748,0.37235,0.40795
