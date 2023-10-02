@@ -34,8 +34,10 @@ BAB 4 HASIL DAN PEMBAHASAN
 4.1 Pre-Processing
 4.2 Feature Selection
 4.3 Balancing Data
-4.4 Training and Testing the Model
-4.5 Model Evaluation
-4.6 Pengujian dengan sampel ????
+4.4 Model Evaluation
+    4.4.1 Training
+    4.4.2 Testing
+    4.4.3 Evaluation
+4.5 Pengujian dengan sampel ????
 
 BAB 5 KESIMPULAN DAN SARAN
