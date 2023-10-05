@@ -1,0 +1,20 @@
+,ML Model,Accuracy,F1 Score,Recall,Precision
+0,"XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=None, num_parallel_tree=None,
+              objective='multi:softprob', predictor=None, ...)",0.93579,0.93221,0.93757,0.92759
+1,"GradientBoostingClassifier(learning_rate=0.7, max_depth=4)",0.93658,0.92961,0.93295,0.9267
+2,RandomForestClassifier(n_estimators=10),0.90289,0.86969,0.8866,0.85779
+3,DecisionTreeClassifier(max_depth=30),0.88823,0.8484,0.87247,0.8328
+4,KNeighborsClassifier(),0.77973,0.72163,0.76773,0.70757
+5,GaussianNB(),0.40517,0.41409,0.48974,0.56491
+6,SVC(),0.39051,0.35483,0.44123,0.4592
+7,MLPClassifier(),0.48454,0.36885,0.42229,0.52286
+8,LogisticRegression(),0.38565,0.28616,0.35868,0.39971
