@@ -1,5 +1,0 @@
-,ML Model,Accuracy,F1 Score,Recall,Precision
-0,DecisionTreeClassifier(max_depth=30),0.72425,0.51186,0.50561,0.61904
-1,RandomForestClassifier(n_estimators=20),0.77701,0.51434,0.50479,0.65808
-2,GradientBoostingClassifier(),0.78933,0.49659,0.4878,0.6901
-3,DecisionTreeClassifier(max_depth=9),0.76562,0.4832,0.48077,0.56257
