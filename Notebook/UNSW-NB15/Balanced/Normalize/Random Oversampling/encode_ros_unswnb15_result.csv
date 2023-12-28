@@ -1,5 +1,8 @@
 ,ML Model,Accuracy,Precision,Recall,F1 Score
-0,"XGBClassifier(base_score=None, booster=None, callbacks=None,
+0,RandomForestClassifier(n_estimators=13),0.61025,0.38364,0.34103,0.36108
+1,GradientBoostingClassifier(),0.25887,0.32977,0.3941,0.35908
+2,RandomForestClassifier(n_estimators=20),0.36645,0.39813,0.28906,0.33494
+3,"XGBClassifier(base_score=None, booster=None, callbacks=None,
               colsample_bylevel=None, colsample_bynode=None,
               colsample_bytree=None, device=None, early_stopping_rounds=None,
               enable_categorical=False, eval_metric=None, feature_types=None,
@@ -9,9 +12,6 @@
               max_delta_step=None, max_depth=None, max_leaves=None,
               min_child_weight=None, missing=nan, monotone_constraints=None,
               multi_strategy=None, n_estimators=None, n_jobs=None,
-              num_parallel_tree=None, objective='multi:softprob', ...)",0.70379,0.54072,0.45591,0.49471
-1,GradientBoostingClassifier(),0.62416,0.40432,0.42341,0.41364
-2,RandomForestClassifier(n_estimators=20),0.68827,0.39918,0.41566,0.40725
-3,RandomForestClassifier(n_estimators=11),0.65704,0.37082,0.39858,0.3842
-4,DecisionTreeClassifier(max_depth=14),0.53052,0.33,0.37042,0.34904
-5,DecisionTreeClassifier(max_depth=13),0.32215,0.23295,0.30909,0.26567
+              num_parallel_tree=None, objective='multi:softprob', ...)",0.50139,0.28774,0.35671,0.31854
+4,DecisionTreeClassifier(max_depth=12),0.26886,0.2598,0.32193,0.28755
+5,DecisionTreeClassifier(max_depth=20),0.28653,0.25786,0.25912,0.25849
