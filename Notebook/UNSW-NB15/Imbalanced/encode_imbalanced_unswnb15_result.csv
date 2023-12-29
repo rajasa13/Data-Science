@@ -9,9 +9,8 @@
               max_delta_step=None, max_depth=None, max_leaves=None,
               min_child_weight=None, missing=nan, monotone_constraints=None,
               multi_strategy=None, n_estimators=None, n_jobs=None,
-              num_parallel_tree=None, objective='multi:softprob', ...)",0.79288,0.56679,0.53997,0.55306
-1,DecisionTreeClassifier(max_depth=12),0.77874,0.55112,0.49672,0.52251
-2,RandomForestClassifier(n_estimators=17),0.76829,0.55178,0.49539,0.52206
-3,DecisionTreeClassifier(max_depth=11),0.77702,0.54535,0.49251,0.51759
-4,RandomForestClassifier(n_estimators=20),0.76723,0.54074,0.49575,0.51727
-5,GradientBoostingClassifier(),0.74916,0.55407,0.47886,0.51373
+              num_parallel_tree=None, objective='multi:softprob', ...)",0.79392,0.56391,0.53685,0.55005
+1,GradientBoostingClassifier(),0.80413,0.59093,0.50689,0.5457
+2,RandomForestClassifier(n_estimators=20),0.76802,0.55189,0.4993,0.52428
+3,RandomForestClassifier(n_estimators=16),0.76908,0.56377,0.48514,0.52151
+4,DecisionTreeClassifier(max_depth=6),0.77674,0.4368,0.41578,0.42603
