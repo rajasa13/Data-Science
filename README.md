@@ -8,4 +8,4 @@ Folder ***Dataset*** berisi beberapa dataset, diantaranya:
 4. UNSW-NB15
 5. CIC-IDS2017(Coming Soon)
 
-Folder ***Notebook*** berisi jupyter notebook terkait dataset yang ada pada folder ***Dataset***. Saat ini dalam dalam pengerjaan UNR-IDD dan UNSW-NB15
+Folder ***Notebook*** berisi jupyter notebook terkait dataset yang ada pada folder ***Dataset***.
