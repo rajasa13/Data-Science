@@ -11232,3 +11232,23 @@ ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1 
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2024-07-19 06:51:24,882:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 10:52:33,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 10:52:33,033:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 10:52:33,033:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 10:52:33,033:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 10:55:10,567:WARNING:C:\Users\Rajasa\AppData\Local\Temp\ipykernel_9836\1075865206.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.countplot(data=data, x="Binary Label", palette="husl")
+
+2024-07-19 10:56:32,283:WARNING:C:\Users\Rajasa\AppData\Local\Temp\ipykernel_9836\3545273045.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.countplot(data=data, x="Label", palette="husl")
+
