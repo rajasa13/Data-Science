@@ -11224,3 +11224,11 @@ ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1 
 2024-07-18 10:27:43,289:INFO:save_model() successfully completed......................................
 2024-07-18 10:27:43,457:INFO:Initializing load_model()
 2024-07-18 10:27:43,457:INFO:load_model(model_name=unr-idd_best_model, platform=None, authentication=None, verbose=True)
+2024-07-19 06:51:24,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 06:51:24,882:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 06:51:24,882:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-19 06:51:24,882:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
