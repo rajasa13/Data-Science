@@ -1,5 +1,5 @@
-# Data-Science
-Ini merupakan repositori saya dalam belajar Data Science
+# Research Final Asignment
+Ini merupakan repositori research final assignment saat kuliah.
 
 Folder ***Dataset*** berisi beberapa dataset, diantaranya:
 1. KDDCup 1999
